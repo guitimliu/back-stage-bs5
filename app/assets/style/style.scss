@@ -1,0 +1,40 @@
+@import "../../../node_modules/bootstrap/scss/functions";
+@import "./helpers/variables";
+@import "../../../node_modules/bootstrap/scss/bootstrap";
+
+
+// @import './layout.scss'
+
+.aside {
+    width: 296px;
+}
+
+.user-avatar {
+    width: 40px;
+    height: 40px;
+}
+
+.title {
+    line-height: 33px;
+}
+
+.menu-icon {
+    width: 20px;
+    height: 20px;
+}
+
+.fs-7 {
+    font-size: 0.75rem;
+}
+
+.post {
+    border-color: #CED4DA;
+}
+
+.reply {
+    color: #CED4DA;
+}
+
+.access-level {
+    border-radius: 2px;
+}
